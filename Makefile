@@ -1,0 +1,2 @@
+target:
+	npx expo start
